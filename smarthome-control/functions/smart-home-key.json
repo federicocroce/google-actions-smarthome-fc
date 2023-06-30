@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smart-home-node-demo-390421",
+  "private_key_id": "6d99702b95145b4752f885c0bfff50ae56ec441f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9MLMW7QqSiyFS\nPrY1BYAiVvHb6HblxtTMxWSzNPhfbbPpOdmt4+OsPbPty1WFV1WAx06EH3OqabNk\nqqb5DHF106QYZ1PsFHN0stfrQY4B5//m0Wylmpd0IsoiNI041aycgKfqEcFWof3d\nQoehEErEEqeq438+pHuNdwlxWfAMFAQaiPujc9y1WwUVo1ApNArUxdH9GMf0np/U\nl7U38duNjAtw0tZcjXJU289p3OwSIhHubBu7WYxfVHihUavTxpVo6+04UhaTiFLQ\nds7fW/NYsxIH0B+XaIFozIPCCnzsH7f7RyaCWVuIrykTuM4+ZMyLmMk//keJiDXL\nG7wYHfN/AgMBAAECggEAOSwnYs09fa2X4z/aVkmUQExgCKHGlIeytTMNzG48hLIl\nRVzbIIaWve1jm3/wFzyeNS2F172deak5sjkz/l05SG8tzsYjAVvozCJjx89mt8LB\nfaJaH+2IyWreBNo2ty8zW5QxqjW1ZJXNnvjE/fJrdbdhfe4D/Q093TFU5DFWrn80\nzvCC/0BdSXH81+Hm2xameuIFL/Ta/36ic5iETQsjZ/Lbp6h3FmJ7xyASpGh/c3jq\nVV70ytzz9ZevBo+IIc6+MNBCtlcUmo+19tcPB+cvBbeisJ40NTJfvbirBA8Gum/5\nOSTuW/+nPGLkMKp10KbnyPveBfuRyMRwR/43XQ0vIQKBgQDoEnGGQgGd7NKovO/2\naV1Ed1NwpmfQyooCJ5a7Vw6K0mNAGb6387E/Wd9VSd8gmPXVAhxWW42Q+tu4+67n\nDSZUu799lH5eq+egJ9u3TdV4d8pEjgvCHv/36Kk8dtg+jxJXg7oxdKU3XYhUtezm\n4buUFCXw3+OBtil0amRGvi17sQKBgQDQsmNPLKOGdes6atbPYFkMiJZg2QYcHYi7\nK4YxbWNhcX2RfU/uSbbGtEHGyHRaqxNRsQdyn8VhDHM1UopDzvpSPFlwDwnGl+ip\nyMP3QP5OJJGSkYbGXCGwutRho/jAWsSozK3wHd+83PyAlem0eIHeOz5g3QBKU3bW\nAI2wln2eLwKBgCswy4oGHNDsc2RODYbZoy8L2i6b+bRFDZxLC+V/1UgG0cvrPrBz\nnShCLKtt3SXu8cmb4/Q6g8VYuq3ZwXpk2x5n9sKDcWVjLu+Cm4So6rLJ8I4DtbKC\nHHdiCKUlJSe3bt10uaFcqSb9tFK3rQhnOIbdnRYQRQIuCdcNue3klQhxAoGAJisa\nApb1aVgTp2F23AKRBrvMVPYcKfQ015aEOnH5JQ8umfdDMR+GMB0zknmC3jo/lEc+\nR3Z1EOTIBU6NPw2RtoyXBumZLhsGUFcJkCTw3bXOcfHvpkOfXcUtppXonrV7Fiwo\n+6tbCh2YiKPiVEFd7xkCtZB1xyIwr772Kv+7Bb0CgYBxyg7Fzs08W6ovfQ4jnUM9\nXyB3Vjj6RyPFkDPCc7kIBdsrMRFdJbioXv9rdMfS+jstyobjrMuw5xBST/cxFgth\nLlZUd0K5WTA5CDwPiZb/U/MYT9jCkxURZ9ewWLTD24fXA5SFw+t18KHB6CtcgGOj\nO3aD5l6w2PZpHWNVBultKQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mytestapp@smart-home-node-demo-390421.iam.gserviceaccount.com",
+  "client_id": "108602687834269866891",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mytestapp%40smart-home-node-demo-390421.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
